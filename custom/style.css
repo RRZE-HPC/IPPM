@@ -1,14 +1,14 @@
     /* works in JupyterLab */
     :root {
-        --jp-content-font-size1: 20px !important;
-        --jp-code-font-size: 20px !important;
+        --jp-content-font-size1: 24px !important;
+        --jp-code-font-size: 24px !important;
     }
     .jp-RenderedMarkdown, .rendered_html {
-        font-size: 20px !important;
+        font-size: 24px !important;
     }
     h1 {font-size: 40px !important;}
     h2 {font-size: 30px !important;}
-    p { font-size: 20px !important;}
+    p { font-size: 24px !important;}
     /*
     td { 
         padding: 10px;
