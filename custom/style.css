@@ -50,3 +50,28 @@
     .jp-RenderedHTMLCommon pre code.language-cpp{
         width: 300px;
     }
+    .callout {
+        padding: 1rem;
+        margin: 1rem 0;
+        border-left: 5px solid;
+        border-radius: 6px;
+        background-color: #f9f9f9;
+        font-family: system-ui, sans-serif;
+    }
+    .callout strong {
+        display: block;
+        margin-bottom: 0.3rem;
+    }
+    .callout.note {
+        border-color: #3b82f6;
+        background-color: #eff6ff;
+	width: 75%;
+    }
+    .callout.warning {
+        border-color: #f59e0b;
+        background-color: #fffbeb;
+    }
+    .callout.tip {
+        border-color: #10b981;
+        background-color: #ecfdf5;
+    }
